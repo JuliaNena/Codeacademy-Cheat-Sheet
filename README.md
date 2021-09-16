@@ -1,1 +1,1 @@
-# Codeacademy-Cheat-Sheet
+# Codecademy-Cheat-Sheet
